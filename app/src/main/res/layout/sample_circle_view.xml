@@ -3,12 +3,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
-    <com.novelot.nver.RainbowView
-        android:id="@+id/test"
+
+    <com.novelot.nover.RainbowView
+        android:id="@+id/rainbowV"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_centerInParent="true"
-        android:padding="8dp"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="16dp"
         app:radiuo="160dp" />
 
 

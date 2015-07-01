@@ -1,4 +1,4 @@
-package com.novelot.nver;
+package com.novelot.nover;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

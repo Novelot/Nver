@@ -1,4 +1,4 @@
-package com.novelot.nver;
+package com.novelot.nover;
 
 import android.graphics.Canvas;
 import android.graphics.Color;
@@ -81,4 +81,5 @@ public class ShanShape {
     void setWei(int wei) {
         this.wei = wei;
     }
+
 }
